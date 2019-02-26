@@ -12,5 +12,4 @@ The initial pattern constitutes the seed of the system. The first generation is 
 Each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations.
 
 Built by:
-Anthony Perez
-Joshua Wilden
+Anthony Perez and Joshua Wilden
